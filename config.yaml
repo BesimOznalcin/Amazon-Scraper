@@ -1,0 +1,62 @@
+# Amazon Scraper config
+# max_pages: kategori özel sayfa limiti (yoksa .env MAX_PAGES). 0 = tüm sayfalar.
+# Telegram: /kategoriler , /ekle , /aktif İsim , /pasif İsim
+
+status_notifications: false
+categories:
+- name: Ev Otomasyonu
+  url: https://www.amazon.com.tr/s?k=Ak%C4%B1ll%C4%B1+Ev
+  enabled: false
+  max_pages: 2
+- name: Playstation 5
+  url: https://www.amazon.com.tr/s?k=playstation+5
+  enabled: true
+  max_pages: 1
+- name: iphone 13 pro aksesuar
+  url: https://www.amazon.com.tr/s?k=iphone+13+pro+aksesuar%c4%b1
+  enabled: true
+  max_pages: 2
+- name: Kamp Ocağı
+  url: https://www.amazon.com.tr/s?k=kamp+oca%C4%9F%C4%B1
+  enabled: true
+  max_pages: 2
+- name: Çaycı
+  url: https://www.amazon.com.tr/s?k=%C3%A7ayc%C4%B1
+  enabled: true
+  max_pages: 2
+- name: Kamp Arabası
+  url: https://www.amazon.com.tr/s?k=kamp+arabas%C4%B1
+  enabled: true
+  max_pages: 2
+- name: Günes Kremi 50+
+  url: https://www.amazon.com.tr/s?k=g%C3%BCne%C5%9F+kremi+50
+  enabled: true
+  max_pages: 2
+- name: Araç Şarj Istasyonu
+  url: https://www.amazon.com.tr/s?k=Ara%C3%A7+%C5%9Earj+Istasyonu
+  enabled: true
+  max_pages: 2
+- name: Su
+  url: https://www.amazon.com.tr/s?k=su
+  enabled: true
+  max_pages: 2
+- name: Taşınabilir Güç Istasyonu
+  url: https://www.amazon.com.tr/s?k=ta%C5%9F%C4%B1nabilir+g%C3%BC%C3%A7+istasyonu
+  enabled: true
+  max_pages: 2
+- name: Lego
+  url: https://www.amazon.com.tr/s?k=Lego
+  enabled: false
+  max_pages: 2
+- name: 55 inc TV
+  url: https://www.amazon.com.tr/s?k=55+in%C3%A7+tv
+  enabled: true
+  max_pages: 3
+- name: Kulakiçi Kulaklık
+  url: https://www.amazon.com.tr/s?k=kablosuz+kulak+i%C3%A7i+kulakl%C4%B1k
+  enabled: true
+  max_pages: 3
+- name: Akıllı Kapı Kilidi
+  url: https://www.amazon.com.tr/s?k=ak%C4%B1ll%C4%B1+kap%C4%B1+kilidi
+  enabled: true
+  max_pages: 3
