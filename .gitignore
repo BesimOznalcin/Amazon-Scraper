@@ -3,9 +3,6 @@ __pycache__/
 *.py[cod]
 .venv/
 venv/
-env/
-.env
-data/
 *.csv
 *.db
 *.log

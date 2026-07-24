@@ -1,0 +1,874 @@
+2026-07-24 19:13:34 [INFO] price_tracker.scraper: Sayfa 2: 50 ürün okundu (oturum toplamı 103)
+2026-07-24 19:13:34 [INFO] price_tracker.scraper: Sayfa 1: 60 ürün okundu (oturum toplamı 60)
+2026-07-24 19:13:35 [INFO] price_tracker.scraper: Sayfa 1: 50 ürün okundu (oturum toplamı 50)
+2026-07-24 19:13:35 [INFO] price_tracker.scraper: Toplam 103 ürün bulundu (103 benzersiz ASIN).
+2026-07-24 19:13:36 [INFO] price_tracker.scraper: Sayfa 2/2: https://www.amazon.com.tr/s?k=g%C3%BCne%C5%9F+kremi+50&page=2
+2026-07-24 19:13:36 [INFO] price_tracker.scraper: Sayfa 2/2: https://www.amazon.com.tr/s?k=Ara%C3%A7+%C5%9Earj+Istasyonu&page=2
+2026-07-24 19:13:36 [INFO] price_tracker.scraper: Sayfa 1: 52 ürün okundu (oturum toplamı 52)
+2026-07-24 19:13:38 [INFO] price_tracker.scraper: Sayfa 2/2: https://www.amazon.com.tr/s?k=su&page=2
+2026-07-24 19:13:41 [INFO] price_tracker.tracker: Kategori bitti: Kamp Arabası (103 ürün)
+2026-07-24 19:13:41 [INFO] price_tracker.tracker: Kategori başlıyor: Taşınabilir Güç Istasyonu
+2026-07-24 19:13:41 [INFO] price_tracker.scraper: Kategori taranıyor (max 2 sayfa): https://www.amazon.com.tr/s?k=ta%C5%9F%C4%B1nabilir+g%C3%BC%C3%A7+istasyonu
+2026-07-24 19:13:43 [INFO] price_tracker.scraper: Sayfa 1/2: https://www.amazon.com.tr/s?k=ta%C5%9F%C4%B1nabilir+g%C3%BC%C3%A7+istasyonu
+2026-07-24 19:13:54 [INFO] price_tracker.scraper: Sayfa 2: 52 ürün okundu (oturum toplamı 104)
+2026-07-24 19:13:55 [INFO] price_tracker.scraper: Sayfa 2: 48 ürün okundu (oturum toplamı 98)
+2026-07-24 19:13:55 [INFO] price_tracker.scraper: Sayfa 2: 46 ürün okundu (oturum toplamı 106)
+2026-07-24 19:13:55 [INFO] price_tracker.scraper: Toplam 104 ürün bulundu (104 benzersiz ASIN).
+2026-07-24 19:13:56 [INFO] price_tracker.scraper: Toplam 98 ürün bulundu (98 benzersiz ASIN).
+2026-07-24 19:13:56 [INFO] price_tracker.scraper: Toplam 106 ürün bulundu (106 benzersiz ASIN).
+2026-07-24 19:14:00 [INFO] price_tracker.tracker: Kategori bitti: Su (104 ürün)
+2026-07-24 19:14:00 [INFO] price_tracker.tracker: Kategori başlıyor: 55 inc TV
+2026-07-24 19:14:00 [INFO] price_tracker.scraper: Kategori taranıyor (max 3 sayfa): https://www.amazon.com.tr/s?k=55+in%C3%A7+tv
+2026-07-24 19:14:02 [INFO] price_tracker.scraper: Sayfa 1/3: https://www.amazon.com.tr/s?k=55+in%C3%A7+tv
+2026-07-24 19:14:03 [INFO] price_tracker.tracker: Kategori bitti: Araç Şarj Istasyonu (98 ürün)
+2026-07-24 19:14:03 [INFO] price_tracker.tracker: Kategori başlıyor: Kulakiçi Kulaklık
+2026-07-24 19:14:03 [INFO] price_tracker.scraper: Kategori taranıyor (max 3 sayfa): https://www.amazon.com.tr/s?k=kablosuz+kulak+i%C3%A7i+kulakl%C4%B1k
+2026-07-24 19:14:03 [INFO] price_tracker.tracker: Kategori bitti: Günes Kremi 50+ (106 ürün)
+2026-07-24 19:14:03 [INFO] price_tracker.tracker: Kategori başlıyor: Akıllı Kapı Kilidi
+2026-07-24 19:14:03 [INFO] price_tracker.scraper: Kategori taranıyor (max 3 sayfa): https://www.amazon.com.tr/s?k=ak%C4%B1ll%C4%B1+kap%C4%B1+kilidi
+2026-07-24 19:14:07 [INFO] price_tracker.scraper: Sayfa 1/3: https://www.amazon.com.tr/s?k=kablosuz+kulak+i%C3%A7i+kulakl%C4%B1k
+2026-07-24 19:14:07 [INFO] price_tracker.scraper: Sayfa 1/3: https://www.amazon.com.tr/s?k=ak%C4%B1ll%C4%B1+kap%C4%B1+kilidi
+2026-07-24 19:14:08 [INFO] price_tracker.scraper: Sayfa 1: 54 ürün okundu (oturum toplamı 54)
+2026-07-24 19:14:10 [INFO] price_tracker.scraper: Sayfa 2/2: https://www.amazon.com.tr/s?k=ta%C5%9F%C4%B1nabilir+g%C3%BC%C3%A7+istasyonu&page=2
+2026-07-24 19:14:14 [WARNING] apscheduler.scheduler: Execution of job "PriceTracker.run_once (trigger: interval[0:02:00], next run at: 2026-07-24 19:14:14 +03)" skipped: maximum number of running instances reached (1)
+2026-07-24 19:14:29 [INFO] price_tracker.scraper: Sayfa 1: 48 ürün okundu (oturum toplamı 48)
+2026-07-24 19:14:29 [INFO] price_tracker.scraper: Sayfa 2: 48 ürün okundu (oturum toplamı 102)
+2026-07-24 19:14:30 [INFO] price_tracker.scraper: Sayfa 1: 58 ürün okundu (oturum toplamı 58)
+2026-07-24 19:14:31 [INFO] price_tracker.scraper: Sayfa 2/3: https://www.amazon.com.tr/s?k=55+in%C3%A7+tv&page=2
+2026-07-24 19:14:31 [INFO] price_tracker.scraper: Toplam 102 ürün bulundu (102 benzersiz ASIN).
+2026-07-24 19:14:31 [INFO] price_tracker.scraper: Sayfa 2/3: https://www.amazon.com.tr/s?k=kablosuz+kulak+i%C3%A7i+kulakl%C4%B1k&page=2
+2026-07-24 19:14:36 [INFO] price_tracker.tracker: Kategori bitti: Taşınabilir Güç Istasyonu (102 ürün)
+2026-07-24 19:14:36 [INFO] price_tracker.scraper: Sayfa 1: 50 ürün okundu (oturum toplamı 50)
+2026-07-24 19:14:37 [INFO] price_tracker.scraper: Sayfa 2/3: https://www.amazon.com.tr/s?k=ak%C4%B1ll%C4%B1+kap%C4%B1+kilidi&page=2
+2026-07-24 19:14:48 [INFO] price_tracker.scraper: Sayfa 2: 48 ürün okundu (oturum toplamı 96)
+2026-07-24 19:14:48 [INFO] price_tracker.scraper: Sayfa 2: 44 ürün okundu (oturum toplamı 102)
+2026-07-24 19:14:50 [INFO] price_tracker.scraper: Sayfa 3/3: https://www.amazon.com.tr/s?k=55+in%C3%A7+tv&page=3
+2026-07-24 19:14:50 [INFO] price_tracker.scraper: Sayfa 3/3: https://www.amazon.com.tr/s?k=kablosuz+kulak+i%C3%A7i+kulakl%C4%B1k&page=3
+2026-07-24 19:14:54 [INFO] price_tracker.scraper: Sayfa 2: 47 ürün okundu (oturum toplamı 97)
+2026-07-24 19:14:56 [INFO] price_tracker.scraper: Sayfa 3/3: https://www.amazon.com.tr/s?k=ak%C4%B1ll%C4%B1+kap%C4%B1+kilidi&page=3
+2026-07-24 19:15:06 [INFO] price_tracker.scraper: Sayfa 3: 45 ürün okundu (oturum toplamı 147)
+2026-07-24 19:15:07 [INFO] price_tracker.scraper: Sayfa 3: 48 ürün okundu (oturum toplamı 144)
+2026-07-24 19:15:08 [INFO] price_tracker.scraper: Toplam 147 ürün bulundu (147 benzersiz ASIN).
+2026-07-24 19:15:08 [INFO] price_tracker.scraper: Toplam 144 ürün bulundu (144 benzersiz ASIN).
+2026-07-24 19:15:12 [INFO] price_tracker.scraper: Sayfa 3: 47 ürün okundu (oturum toplamı 144)
+2026-07-24 19:15:14 [INFO] price_tracker.scraper: Toplam 144 ürün bulundu (144 benzersiz ASIN).
+2026-07-24 19:15:18 [INFO] price_tracker.tracker: Kategori bitti: 55 inc TV (144 ürün)
+2026-07-24 19:15:18 [INFO] price_tracker.tracker: Kategori bitti: Kulakiçi Kulaklık (147 ürün)
+2026-07-24 19:15:19 [INFO] price_tracker.tracker: Kategori bitti: Akıllı Kapı Kilidi (144 ürün)
+2026-07-24 19:15:19 [INFO] price_tracker.tracker: Tarama bitti. 1311 ürün | yeni=1 aynı=1126 artış=1 düşüş=3 | bildirim düşüş=0 artış=0 | süre=3 dk 5 sn
+2026-07-24 19:15:19 [INFO] apscheduler.executors.default: Job "PriceTracker.run_once (trigger: interval[0:02:00], next run at: 2026-07-24 19:16:14 +03)" executed successfully
+2026-07-24 19:16:14 [INFO] apscheduler.executors.default: Running job "PriceTracker.run_once (trigger: interval[0:02:00], next run at: 2026-07-24 19:18:14 +03)" (scheduled at 2026-07-24 19:16:14.447227+03:00)
+2026-07-24 19:16:14 [INFO] price_tracker.tracker: 12 kategori paralel taranacak (workers=4)
+2026-07-24 19:16:14 [INFO] price_tracker.tracker: Kategori başlıyor: Playstation 5
+2026-07-24 19:16:14 [INFO] price_tracker.scraper: Kategori taranıyor (max 1 sayfa): https://www.amazon.com.tr/s?k=playstation+5
+2026-07-24 19:16:14 [INFO] price_tracker.tracker: Kategori başlıyor: iphone 13 pro aksesuar
+2026-07-24 19:16:14 [INFO] price_tracker.tracker: Kategori başlıyor: Kamp Ocağı
+2026-07-24 19:16:14 [INFO] price_tracker.tracker: Kategori başlıyor: Çaycı
+2026-07-24 19:16:14 [INFO] price_tracker.scraper: Kategori taranıyor (max 2 sayfa): https://www.amazon.com.tr/s?k=iphone+13+pro+aksesuar%c4%b1
+2026-07-24 19:16:14 [INFO] price_tracker.scraper: Kategori taranıyor (max 2 sayfa): https://www.amazon.com.tr/s?k=kamp+oca%C4%9F%C4%B1
+2026-07-24 19:16:14 [INFO] price_tracker.scraper: Kategori taranıyor (max 2 sayfa): https://www.amazon.com.tr/s?k=%C3%A7ayc%C4%B1
+2026-07-24 19:16:17 [INFO] price_tracker.scraper: Sayfa 1/1: https://www.amazon.com.tr/s?k=playstation+5
+2026-07-24 19:16:17 [INFO] price_tracker.scraper: Sayfa 1/2: https://www.amazon.com.tr/s?k=kamp+oca%C4%9F%C4%B1
+2026-07-24 19:16:18 [INFO] price_tracker.scraper: Sayfa 1/2: https://www.amazon.com.tr/s?k=iphone+13+pro+aksesuar%c4%b1
+2026-07-24 19:16:18 [INFO] price_tracker.scraper: Sayfa 1/2: https://www.amazon.com.tr/s?k=%C3%A7ayc%C4%B1
+2026-07-24 19:16:44 [INFO] price_tracker.scraper: Sayfa 1: 52 ürün okundu (oturum toplamı 52)
+2026-07-24 19:16:45 [INFO] price_tracker.scraper: Sayfa 1: 51 ürün okundu (oturum toplamı 51)
+2026-07-24 19:16:45 [INFO] price_tracker.scraper: Sayfa 2/2: https://www.amazon.com.tr/s?k=kamp+oca%C4%9F%C4%B1&page=2
+2026-07-24 19:16:46 [INFO] price_tracker.scraper: Toplam 51 ürün bulundu (51 benzersiz ASIN).
+2026-07-24 19:16:47 [INFO] price_tracker.scraper: Sayfa 1: 54 ürün okundu (oturum toplamı 54)
+2026-07-24 19:16:48 [INFO] price_tracker.scraper: Sayfa 1: 58 ürün okundu (oturum toplamı 58)
+2026-07-24 19:16:49 [INFO] price_tracker.scraper: Sayfa 2/2: https://www.amazon.com.tr/s?k=%C3%A7ayc%C4%B1&page=2
+2026-07-24 19:16:49 [INFO] price_tracker.scraper: Sayfa 2/2: https://www.amazon.com.tr/s?k=iphone+13+pro+aksesuar%C4%B1&page=2
+2026-07-24 19:16:50 [INFO] price_tracker.tracker: Kategori bitti: Playstation 5 (51 ürün)
+2026-07-24 19:16:50 [INFO] price_tracker.tracker: Kategori başlıyor: Kamp Arabası
+2026-07-24 19:16:50 [INFO] price_tracker.scraper: Kategori taranıyor (max 2 sayfa): https://www.amazon.com.tr/s?k=kamp+arabas%C4%B1
+2026-07-24 19:16:53 [INFO] price_tracker.scraper: Sayfa 1/2: https://www.amazon.com.tr/s?k=kamp+arabas%C4%B1
+2026-07-24 19:17:03 [INFO] price_tracker.scraper: Sayfa 2: 48 ürün okundu (oturum toplamı 100)
+2026-07-24 19:17:04 [INFO] price_tracker.scraper: Toplam 100 ürün bulundu (100 benzersiz ASIN).
+2026-07-24 19:17:06 [INFO] price_tracker.scraper: Sayfa 2: 48 ürün okundu (oturum toplamı 102)
+2026-07-24 19:17:07 [INFO] price_tracker.scraper: Sayfa 2: 52 ürün okundu (oturum toplamı 110)
+2026-07-24 19:17:07 [INFO] price_tracker.scraper: Toplam 102 ürün bulundu (102 benzersiz ASIN).
+2026-07-24 19:17:09 [INFO] price_tracker.tracker: Kategori bitti: Kamp Ocağı (100 ürün)
+2026-07-24 19:17:09 [INFO] price_tracker.tracker: Kategori başlıyor: Günes Kremi 50+
+2026-07-24 19:17:09 [INFO] price_tracker.scraper: Kategori taranıyor (max 2 sayfa): https://www.amazon.com.tr/s?k=g%C3%BCne%C5%9F+kremi+50
+2026-07-24 19:17:09 [INFO] price_tracker.scraper: Toplam 110 ürün bulundu (110 benzersiz ASIN).
+2026-07-24 19:17:11 [INFO] price_tracker.scraper: Sayfa 1/2: https://www.amazon.com.tr/s?k=g%C3%BCne%C5%9F+kremi+50
+2026-07-24 19:17:12 [INFO] price_tracker.tracker: Kategori bitti: Çaycı (102 ürün)
+2026-07-24 19:17:12 [INFO] price_tracker.tracker: Kategori başlıyor: Araç Şarj Istasyonu
+2026-07-24 19:17:12 [INFO] price_tracker.scraper: Kategori taranıyor (max 2 sayfa): https://www.amazon.com.tr/s?k=Ara%C3%A7+%C5%9Earj+Istasyonu
+2026-07-24 19:17:15 [INFO] price_tracker.tracker: Kategori bitti: iphone 13 pro aksesuar (110 ürün)
+2026-07-24 19:17:15 [INFO] price_tracker.tracker: Kategori başlıyor: Su
+2026-07-24 19:17:15 [INFO] price_tracker.scraper: Kategori taranıyor (max 2 sayfa): https://www.amazon.com.tr/s?k=su
+2026-07-24 19:17:15 [INFO] price_tracker.scraper: Sayfa 1/2: https://www.amazon.com.tr/s?k=Ara%C3%A7+%C5%9Earj+Istasyonu
+2026-07-24 19:17:16 [INFO] price_tracker.scraper: Sayfa 1: 53 ürün okundu (oturum toplamı 53)
+2026-07-24 19:17:17 [INFO] price_tracker.scraper: Sayfa 2/2: https://www.amazon.com.tr/s?k=kamp+arabas%C4%B1&page=2
+2026-07-24 19:17:18 [INFO] price_tracker.scraper: Sayfa 1/2: https://www.amazon.com.tr/s?k=su
+2026-07-24 19:17:36 [INFO] price_tracker.scraper: Sayfa 1: 60 ürün okundu (oturum toplamı 60)
+2026-07-24 19:17:36 [INFO] price_tracker.scraper: Sayfa 2: 50 ürün okundu (oturum toplamı 103)
+2026-07-24 19:17:37 [INFO] price_tracker.scraper: Sayfa 2/2: https://www.amazon.com.tr/s?k=g%C3%BCne%C5%9F+kremi+50&page=2
+2026-07-24 19:17:38 [INFO] price_tracker.scraper: Toplam 103 ürün bulundu (103 benzersiz ASIN).
+2026-07-24 19:17:39 [INFO] price_tracker.scraper: Sayfa 1: 52 ürün okundu (oturum toplamı 52)
+2026-07-24 19:17:40 [INFO] price_tracker.scraper: Sayfa 1: 50 ürün okundu (oturum toplamı 50)
+2026-07-24 19:17:40 [INFO] price_tracker.scraper: Sayfa 2/2: https://www.amazon.com.tr/s?k=su&page=2
+2026-07-24 19:17:41 [INFO] price_tracker.tracker: Kategori bitti: Kamp Arabası (103 ürün)
+2026-07-24 19:17:41 [INFO] price_tracker.tracker: Kategori başlıyor: Taşınabilir Güç Istasyonu
+2026-07-24 19:17:41 [INFO] price_tracker.scraper: Kategori taranıyor (max 2 sayfa): https://www.amazon.com.tr/s?k=ta%C5%9F%C4%B1nabilir+g%C3%BC%C3%A7+istasyonu
+2026-07-24 19:17:41 [INFO] price_tracker.scraper: Sayfa 2/2: https://www.amazon.com.tr/s?k=Ara%C3%A7+%C5%9Earj+Istasyonu&page=2
+2026-07-24 19:17:44 [INFO] price_tracker.scraper: Sayfa 1/2: https://www.amazon.com.tr/s?k=ta%C5%9F%C4%B1nabilir+g%C3%BC%C3%A7+istasyonu
+2026-07-24 19:17:56 [INFO] price_tracker.scraper: Sayfa 2: 48 ürün okundu (oturum toplamı 108)
+2026-07-24 19:17:57 [INFO] price_tracker.scraper: Toplam 108 ürün bulundu (108 benzersiz ASIN).
+2026-07-24 19:17:57 [INFO] price_tracker.scraper: Sayfa 2: 52 ürün okundu (oturum toplamı 104)
+2026-07-24 19:17:57 [INFO] price_tracker.scraper: Sayfa 2: 47 ürün okundu (oturum toplamı 97)
+2026-07-24 19:17:59 [INFO] price_tracker.scraper: Toplam 104 ürün bulundu (104 benzersiz ASIN).
+2026-07-24 19:17:59 [INFO] price_tracker.scraper: Toplam 97 ürün bulundu (97 benzersiz ASIN).
+2026-07-24 19:18:01 [INFO] price_tracker.tracker: Kategori bitti: Günes Kremi 50+ (108 ürün)
+2026-07-24 19:18:01 [INFO] price_tracker.tracker: Kategori başlıyor: 55 inc TV
+2026-07-24 19:18:01 [INFO] price_tracker.scraper: Kategori taranıyor (max 3 sayfa): https://www.amazon.com.tr/s?k=55+in%C3%A7+tv
+2026-07-24 19:18:04 [INFO] price_tracker.scraper: Sayfa 1/3: https://www.amazon.com.tr/s?k=55+in%C3%A7+tv
+2026-07-24 19:18:04 [INFO] price_tracker.scraper: Sayfa 1: 54 ürün okundu (oturum toplamı 54)
+2026-07-24 19:18:05 [INFO] price_tracker.tracker: Kategori bitti: Su (104 ürün)
+2026-07-24 19:18:05 [INFO] price_tracker.tracker: Kategori başlıyor: Kulakiçi Kulaklık
+2026-07-24 19:18:05 [INFO] price_tracker.scraper: Kategori taranıyor (max 3 sayfa): https://www.amazon.com.tr/s?k=kablosuz+kulak+i%C3%A7i+kulakl%C4%B1k
+2026-07-24 19:18:05 [INFO] price_tracker.tracker: Kategori bitti: Araç Şarj Istasyonu (97 ürün)
+2026-07-24 19:18:05 [INFO] price_tracker.tracker: Kategori başlıyor: Akıllı Kapı Kilidi
+2026-07-24 19:18:05 [INFO] price_tracker.scraper: Kategori taranıyor (max 3 sayfa): https://www.amazon.com.tr/s?k=ak%C4%B1ll%C4%B1+kap%C4%B1+kilidi
+2026-07-24 19:18:05 [INFO] price_tracker.scraper: Sayfa 2/2: https://www.amazon.com.tr/s?k=ta%C5%9F%C4%B1nabilir+g%C3%BC%C3%A7+istasyonu&page=2
+2026-07-24 19:18:09 [INFO] price_tracker.scraper: Sayfa 1/3: https://www.amazon.com.tr/s?k=ak%C4%B1ll%C4%B1+kap%C4%B1+kilidi
+2026-07-24 19:18:09 [INFO] price_tracker.scraper: Sayfa 1/3: https://www.amazon.com.tr/s?k=kablosuz+kulak+i%C3%A7i+kulakl%C4%B1k
+2026-07-24 19:18:14 [WARNING] apscheduler.scheduler: Execution of job "PriceTracker.run_once (trigger: interval[0:02:00], next run at: 2026-07-24 19:18:14 +03)" skipped: maximum number of running instances reached (1)
+2026-07-24 19:18:24 [INFO] price_tracker.scraper: Sayfa 2: 47 ürün okundu (oturum toplamı 101)
+2026-07-24 19:18:25 [INFO] price_tracker.scraper: Toplam 101 ürün bulundu (101 benzersiz ASIN).
+2026-07-24 19:18:28 [INFO] price_tracker.scraper: Sayfa 1: 48 ürün okundu (oturum toplamı 48)
+2026-07-24 19:18:28 [INFO] price_tracker.tracker: Düşüş [Taşınabilir Güç Istasyonu]: Bix PB401 40000mAh 230V 100W AC Priz, 2*USB-A, 60W | 8332.28 → 7895.00 (%5.2) — anında bildiriliyor
+2026-07-24 19:18:30 [INFO] price_tracker.notifier: Telegram foto bildirimi gönderildi: B0BRSSD7N5
+2026-07-24 19:18:30 [INFO] price_tracker.scraper: Sayfa 2/3: https://www.amazon.com.tr/s?k=55+in%C3%A7+tv&page=2
+2026-07-24 19:18:32 [INFO] price_tracker.tracker: Kategori bitti: Taşınabilir Güç Istasyonu (101 ürün)
+2026-07-24 19:18:33 [INFO] price_tracker.scraper: Sayfa 1: 50 ürün okundu (oturum toplamı 50)
+2026-07-24 19:18:34 [INFO] price_tracker.scraper: Sayfa 1: 58 ürün okundu (oturum toplamı 58)
+2026-07-24 19:18:35 [INFO] price_tracker.scraper: Sayfa 2/3: https://www.amazon.com.tr/s?k=ak%C4%B1ll%C4%B1+kap%C4%B1+kilidi&page=2
+2026-07-24 19:18:36 [INFO] price_tracker.scraper: Sayfa 2/3: https://www.amazon.com.tr/s?k=kablosuz+kulak+i%C3%A7i+kulakl%C4%B1k&page=2
+2026-07-24 19:18:47 [INFO] price_tracker.scraper: Sayfa 2: 48 ürün okundu (oturum toplamı 96)
+2026-07-24 19:18:49 [INFO] price_tracker.scraper: Sayfa 3/3: https://www.amazon.com.tr/s?k=55+in%C3%A7+tv&page=3
+2026-07-24 19:18:51 [INFO] price_tracker.scraper: Sayfa 2: 47 ürün okundu (oturum toplamı 97)
+2026-07-24 19:18:52 [INFO] price_tracker.scraper: Sayfa 2: 43 ürün okundu (oturum toplamı 101)
+2026-07-24 19:18:53 [INFO] price_tracker.scraper: Sayfa 3/3: https://www.amazon.com.tr/s?k=ak%C4%B1ll%C4%B1+kap%C4%B1+kilidi&page=3
+2026-07-24 19:18:54 [INFO] price_tracker.scraper: Sayfa 3/3: https://www.amazon.com.tr/s?k=kablosuz+kulak+i%C3%A7i+kulakl%C4%B1k&page=3
+2026-07-24 19:19:06 [INFO] price_tracker.scraper: Sayfa 3: 47 ürün okundu (oturum toplamı 143)
+2026-07-24 19:19:07 [INFO] price_tracker.scraper: Toplam 143 ürün bulundu (143 benzersiz ASIN).
+2026-07-24 19:19:08 [INFO] price_tracker.scraper: Sayfa 3: 48 ürün okundu (oturum toplamı 145)
+2026-07-24 19:19:10 [INFO] price_tracker.scraper: Toplam 145 ürün bulundu (145 benzersiz ASIN).
+2026-07-24 19:19:11 [INFO] price_tracker.scraper: Sayfa 3: 44 ürün okundu (oturum toplamı 145)
+2026-07-24 19:19:12 [INFO] price_tracker.tracker: Kategori bitti: 55 inc TV (143 ürün)
+2026-07-24 19:19:12 [INFO] price_tracker.scraper: Toplam 145 ürün bulundu (145 benzersiz ASIN).
+2026-07-24 19:19:14 [INFO] price_tracker.tracker: Kategori bitti: Akıllı Kapı Kilidi (145 ürün)
+2026-07-24 19:19:16 [INFO] price_tracker.tracker: Kategori bitti: Kulakiçi Kulaklık (145 ürün)
+2026-07-24 19:19:16 [INFO] price_tracker.tracker: Tarama bitti. 1309 ürün | yeni=3 aynı=1131 artış=0 düşüş=2 | bildirim düşüş=1 artış=0 | süre=3 dk 2 sn
+2026-07-24 19:19:16 [INFO] apscheduler.executors.default: Job "PriceTracker.run_once (trigger: interval[0:02:00], next run at: 2026-07-24 19:20:14 +03)" executed successfully
+2026-07-24 19:20:16 [ERROR] price_tracker.telegram_bot: Telegram bot poll hatası
+Traceback (most recent call last):
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\urllib3\connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\urllib3\connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\Besim.Oznalcin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1450, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\Besim.Oznalcin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 336, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Besim.Oznalcin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 297, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 725, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\Besim.Oznalcin\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\urllib3\connectionpool.py", line 842, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\urllib3\util\retry.py", line 498, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\urllib3\connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\urllib3\connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\Besim.Oznalcin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1450, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\Besim.Oznalcin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 336, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Besim.Oznalcin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 297, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 725, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\Besim.Oznalcin\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\price_tracker\telegram_bot.py", line 87, in _poll_loop
+    resp = requests.get(
+        f"https://api.telegram.org/bot{token}/getUpdates",
+    ...<5 lines>...
+        timeout=35,
+    )
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\requests\api.py", line 87, in get
+    return request("get", url, params=params, **kwargs)
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\requests\api.py", line 71, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\requests\adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı', None, 10054, None))
+2026-07-24 19:21:01 [WARNING] apscheduler.executors.default: Run time of job "PriceTracker.run_once (trigger: interval[0:02:00], next run at: 2026-07-24 19:22:14 +03)" was missed by 0:00:47.090138
+2026-07-24 19:22:14 [INFO] apscheduler.executors.default: Running job "PriceTracker.run_once (trigger: interval[0:02:00], next run at: 2026-07-24 19:24:14 +03)" (scheduled at 2026-07-24 19:22:14.447227+03:00)
+2026-07-24 19:22:14 [INFO] price_tracker.tracker: 12 kategori paralel taranacak (workers=4)
+2026-07-24 19:22:14 [INFO] price_tracker.tracker: Kategori başlıyor: Playstation 5
+2026-07-24 19:22:14 [INFO] price_tracker.tracker: Kategori başlıyor: iphone 13 pro aksesuar
+2026-07-24 19:22:14 [INFO] price_tracker.scraper: Kategori taranıyor (max 1 sayfa): https://www.amazon.com.tr/s?k=playstation+5
+2026-07-24 19:22:14 [INFO] price_tracker.tracker: Kategori başlıyor: Çaycı
+2026-07-24 19:22:14 [INFO] price_tracker.scraper: Kategori taranıyor (max 2 sayfa): https://www.amazon.com.tr/s?k=iphone+13+pro+aksesuar%c4%b1
+2026-07-24 19:22:14 [INFO] price_tracker.tracker: Kategori başlıyor: Kamp Ocağı
+2026-07-24 19:22:14 [INFO] price_tracker.scraper: Kategori taranıyor (max 2 sayfa): https://www.amazon.com.tr/s?k=%C3%A7ayc%C4%B1
+2026-07-24 19:22:14 [INFO] price_tracker.scraper: Kategori taranıyor (max 2 sayfa): https://www.amazon.com.tr/s?k=kamp+oca%C4%9F%C4%B1
+2026-07-24 19:22:18 [INFO] price_tracker.scraper: Sayfa 1/2: https://www.amazon.com.tr/s?k=kamp+oca%C4%9F%C4%B1
+2026-07-24 19:22:18 [INFO] price_tracker.scraper: Sayfa 1/1: https://www.amazon.com.tr/s?k=playstation+5
+2026-07-24 19:22:18 [INFO] price_tracker.scraper: Sayfa 1/2: https://www.amazon.com.tr/s?k=%C3%A7ayc%C4%B1
+2026-07-24 19:22:18 [INFO] price_tracker.scraper: Sayfa 1/2: https://www.amazon.com.tr/s?k=iphone+13+pro+aksesuar%c4%b1
+2026-07-24 19:22:44 [INFO] price_tracker.scraper: Sayfa 1: 52 ürün okundu (oturum toplamı 52)
+2026-07-24 19:22:45 [INFO] price_tracker.scraper: Sayfa 2/2: https://www.amazon.com.tr/s?k=kamp+oca%C4%9F%C4%B1&page=2
+2026-07-24 19:22:46 [INFO] price_tracker.scraper: Sayfa 1: 54 ürün okundu (oturum toplamı 54)
+2026-07-24 19:22:46 [INFO] price_tracker.scraper: Sayfa 1: 51 ürün okundu (oturum toplamı 51)
+2026-07-24 19:22:46 [INFO] price_tracker.scraper: Sayfa 1: 59 ürün okundu (oturum toplamı 59)
+2026-07-24 19:22:47 [INFO] price_tracker.scraper: Sayfa 2/2: https://www.amazon.com.tr/s?k=%C3%A7ayc%C4%B1&page=2
+2026-07-24 19:22:47 [INFO] price_tracker.scraper: Toplam 51 ürün bulundu (51 benzersiz ASIN).
+2026-07-24 19:22:48 [INFO] price_tracker.scraper: Sayfa 2/2: https://www.amazon.com.tr/s?k=iphone+13+pro+aksesuar%C4%B1&page=2
+2026-07-24 19:22:51 [INFO] price_tracker.tracker: Kategori bitti: Playstation 5 (51 ürün)
+2026-07-24 19:22:51 [INFO] price_tracker.tracker: Kategori başlıyor: Kamp Arabası
+2026-07-24 19:22:51 [INFO] price_tracker.scraper: Kategori taranıyor (max 2 sayfa): https://www.amazon.com.tr/s?k=kamp+arabas%C4%B1
+2026-07-24 19:22:54 [INFO] price_tracker.scraper: Sayfa 1/2: https://www.amazon.com.tr/s?k=kamp+arabas%C4%B1
+2026-07-24 19:23:03 [INFO] price_tracker.scraper: Sayfa 2: 48 ürün okundu (oturum toplamı 100)
+2026-07-24 19:23:04 [INFO] price_tracker.scraper: Sayfa 2: 48 ürün okundu (oturum toplamı 102)
+2026-07-24 19:23:04 [INFO] price_tracker.scraper: Toplam 100 ürün bulundu (100 benzersiz ASIN).
+2026-07-24 19:23:06 [INFO] price_tracker.scraper: Toplam 102 ürün bulundu (102 benzersiz ASIN).
+2026-07-24 19:23:06 [INFO] price_tracker.scraper: Sayfa 2: 52 ürün okundu (oturum toplamı 111)
+2026-07-24 19:23:08 [INFO] price_tracker.scraper: Toplam 111 ürün bulundu (111 benzersiz ASIN).
+2026-07-24 19:23:11 [INFO] price_tracker.tracker: Kategori bitti: Kamp Ocağı (100 ürün)
+2026-07-24 19:23:11 [INFO] price_tracker.tracker: Kategori başlıyor: Günes Kremi 50+
+2026-07-24 19:23:11 [INFO] price_tracker.scraper: Kategori taranıyor (max 2 sayfa): https://www.amazon.com.tr/s?k=g%C3%BCne%C5%9F+kremi+50
+2026-07-24 19:23:12 [INFO] price_tracker.tracker: Kategori bitti: Çaycı (102 ürün)
+2026-07-24 19:23:12 [INFO] price_tracker.tracker: Kategori başlıyor: Araç Şarj Istasyonu
+2026-07-24 19:23:12 [INFO] price_tracker.scraper: Kategori taranıyor (max 2 sayfa): https://www.amazon.com.tr/s?k=Ara%C3%A7+%C5%9Earj+Istasyonu
+2026-07-24 19:23:13 [INFO] price_tracker.tracker: Kategori bitti: iphone 13 pro aksesuar (111 ürün)
+2026-07-24 19:23:13 [INFO] price_tracker.tracker: Kategori başlıyor: Su
+2026-07-24 19:23:13 [INFO] price_tracker.scraper: Kategori taranıyor (max 2 sayfa): https://www.amazon.com.tr/s?k=su
+2026-07-24 19:23:13 [INFO] price_tracker.scraper: Sayfa 1/2: https://www.amazon.com.tr/s?k=g%C3%BCne%C5%9F+kremi+50
+2026-07-24 19:23:15 [INFO] price_tracker.scraper: Sayfa 1/2: https://www.amazon.com.tr/s?k=Ara%C3%A7+%C5%9Earj+Istasyonu
+2026-07-24 19:23:16 [INFO] price_tracker.scraper: Sayfa 1/2: https://www.amazon.com.tr/s?k=su
+2026-07-24 19:43:36 [ERROR] price_tracker.telegram_bot: Telegram bot poll hatası
+Traceback (most recent call last):
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\urllib3\connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\urllib3\connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\Besim.Oznalcin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1450, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\Besim.Oznalcin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 336, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Besim.Oznalcin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 297, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 725, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\Besim.Oznalcin\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\urllib3\connectionpool.py", line 842, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\urllib3\util\retry.py", line 498, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\urllib3\connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\urllib3\connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\Besim.Oznalcin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1450, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\Besim.Oznalcin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 336, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Besim.Oznalcin\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 297, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 725, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\Besim.Oznalcin\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\price_tracker\telegram_bot.py", line 87, in _poll_loop
+    resp = requests.get(
+        f"https://api.telegram.org/bot{token}/getUpdates",
+    ...<5 lines>...
+        timeout=35,
+    )
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\requests\api.py", line 87, in get
+    return request("get", url, params=params, **kwargs)
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\requests\api.py", line 71, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\requests\adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı', None, 10054, None))
+2026-07-24 19:43:36 [ERROR] price_tracker.scraper: Ürün parse edilemedi, atlanıyor.
+Traceback (most recent call last):
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\price_tracker\scraper.py", line 260, in _parse_products_on_page
+    product = self._parse_product(el)
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\price_tracker\scraper.py", line 166, in _parse_product
+    url_el = element.find_element(By.CSS_SELECTOR, "a[href*='/dp/']")
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 532, in find_element
+    return self._execute(Command.FIND_CHILD_ELEMENT, {"using": by, "value": value})["value"]
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 508, in _execute
+    return self._parent.execute(command, params)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 492, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=150.0.7871.129); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff659870d25+155a5]
+	chromedriver!GetHandleVerifier [0x7ff659870d80+15600]
+	chromedriver!(No symbol) [0x7ff6593c594d]
+	chromedriver!(No symbol) [0x7ff6593b27c9]
+	chromedriver!(No symbol) [0x7ff6593b24b1]
+	chromedriver!(No symbol) [0x7ff6593b0167]
+	chromedriver!(No symbol) [0x7ff6593b0abf]
+	chromedriver!(No symbol) [0x7ff6593cd1a7]
+	chromedriver!(No symbol) [0x7ff6593d0885]
+	chromedriver!(No symbol) [0x7ff6593d094f]
+	chromedriver!(No symbol) [0x7ff65942006a]
+	chromedriver!(No symbol) [0x7ff659420bec]
+	chromedriver!(No symbol) [0x7ff65941476c]
+	chromedriver!(No symbol) [0x7ff659414616]
+	chromedriver!(No symbol) [0x7ff65946e01b]
+	chromedriver!(No symbol) [0x7ff659412e6c]
+	chromedriver!(No symbol) [0x7ff659413d93]
+	chromedriver!GetHandleVerifier [0x7ff659e56431+5facb1]
+	chromedriver!GetHandleVerifier [0x7ff659e50a9b+5f531b]
+	chromedriver!GetHandleVerifier [0x7ff659e75865+61a0e5]
+	chromedriver!GetHandleVerifier [0x7ff65988dace+3234e]
+	chromedriver!GetHandleVerifier [0x7ff65989661c+3ae9c]
+	chromedriver!GetHandleVerifier [0x7ff65987ab74+1f3f4]
+	chromedriver!GetHandleVerifier [0x7ff65987ad04+1f584]
+	chromedriver!GetHandleVerifier [0x7ff65985d9d7+2257]
+	KERNEL32!BaseThreadInitThunk [0x7ffaab47e957+17]
+	ntdll!RtlUserThreadStart [0x7ffaab72ad6c+2c]
+
+2026-07-24 19:43:36 [ERROR] price_tracker.scraper: Selenium hatası: https://www.amazon.com.tr/s?k=Ara%C3%A7+%C5%9Earj+Istasyonu
+Traceback (most recent call last):
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\price_tracker\scraper.py", line 290, in scrape_page
+    driver.get(page_url)
+    ~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 512, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 492, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=150.0.7871.129); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff659870d25+155a5]
+	chromedriver!GetHandleVerifier [0x7ff659870d80+15600]
+	chromedriver!(No symbol) [0x7ff6593c594d]
+	chromedriver!(No symbol) [0x7ff6593b27c9]
+	chromedriver!(No symbol) [0x7ff6593b24b1]
+	chromedriver!(No symbol) [0x7ff6593b1316]
+	chromedriver!(No symbol) [0x7ff6593d619d]
+	chromedriver!(No symbol) [0x7ff65946e343]
+	chromedriver!(No symbol) [0x7ff659412e6c]
+	chromedriver!(No symbol) [0x7ff659413d93]
+	chromedriver!GetHandleVerifier [0x7ff659e56431+5facb1]
+	chromedriver!GetHandleVerifier [0x7ff659e50a9b+5f531b]
+	chromedriver!GetHandleVerifier [0x7ff659e75865+61a0e5]
+	chromedriver!GetHandleVerifier [0x7ff65988dace+3234e]
+	chromedriver!GetHandleVerifier [0x7ff65989661c+3ae9c]
+	chromedriver!GetHandleVerifier [0x7ff65987ab74+1f3f4]
+	chromedriver!GetHandleVerifier [0x7ff65987ad04+1f584]
+	chromedriver!GetHandleVerifier [0x7ff65985d9d7+2257]
+	KERNEL32!BaseThreadInitThunk [0x7ffaab47e957+17]
+	ntdll!RtlUserThreadStart [0x7ffaab72ad6c+2c]
+
+2026-07-24 19:43:36 [ERROR] price_tracker.scraper: Selenium hatası: https://www.amazon.com.tr/s?k=su
+Traceback (most recent call last):
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\price_tracker\scraper.py", line 290, in scrape_page
+    driver.get(page_url)
+    ~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 512, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 492, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=150.0.7871.129); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff659870d25+155a5]
+	chromedriver!GetHandleVerifier [0x7ff659870d80+15600]
+	chromedriver!(No symbol) [0x7ff6593c594d]
+	chromedriver!(No symbol) [0x7ff6593b27c9]
+	chromedriver!(No symbol) [0x7ff6593b24b1]
+	chromedriver!(No symbol) [0x7ff6593b0167]
+	chromedriver!(No symbol) [0x7ff6593b0abf]
+	chromedriver!(No symbol) [0x7ff6593c016a]
+	chromedriver!(No symbol) [0x7ff6593d6ab7]
+	chromedriver!(No symbol) [0x7ff6593de98a]
+	chromedriver!(No symbol) [0x7ff6593b1281]
+	chromedriver!(No symbol) [0x7ff6593d619d]
+	chromedriver!(No symbol) [0x7ff65946e343]
+	chromedriver!(No symbol) [0x7ff659412e6c]
+	chromedriver!(No symbol) [0x7ff659413d93]
+	chromedriver!GetHandleVerifier [0x7ff659e56431+5facb1]
+	chromedriver!GetHandleVerifier [0x7ff659e50a9b+5f531b]
+	chromedriver!GetHandleVerifier [0x7ff659e75865+61a0e5]
+	chromedriver!GetHandleVerifier [0x7ff65988dace+3234e]
+	chromedriver!GetHandleVerifier [0x7ff65989661c+3ae9c]
+	chromedriver!GetHandleVerifier [0x7ff65987ab74+1f3f4]
+	chromedriver!GetHandleVerifier [0x7ff65987ad04+1f584]
+	chromedriver!GetHandleVerifier [0x7ff65985d9d7+2257]
+	KERNEL32!BaseThreadInitThunk [0x7ffaab47e957+17]
+	ntdll!RtlUserThreadStart [0x7ffaab72ad6c+2c]
+
+2026-07-24 19:43:37 [ERROR] price_tracker.scraper: Ürün parse edilemedi, atlanıyor.
+Traceback (most recent call last):
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\price_tracker\scraper.py", line 260, in _parse_products_on_page
+    product = self._parse_product(el)
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\price_tracker\scraper.py", line 140, in _parse_product
+    asin = self._extract_asin(element)
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\price_tracker\scraper.py", line 120, in _extract_asin
+    asin = element.get_attribute("data-asin")
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 213, in get_attribute
+    attribute_value = self.parent.execute_script(
+        f"/* getAttribute */return ({getAttribute_js}).apply(null, arguments);", self, name
+    )
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 602, in execute_script
+    return self.execute(command, {"script": script, "args": converted_args})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 492, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff659870d25+155a5]
+	chromedriver!GetHandleVerifier [0x7ff659870d80+15600]
+	chromedriver!(No symbol) [0x7ff6593c5736]
+	chromedriver!(No symbol) [0x7ff659411ed6]
+	chromedriver!(No symbol) [0x7ff6594490d2]
+	chromedriver!(No symbol) [0x7ff659442ef2]
+	chromedriver!(No symbol) [0x7ff6594426b2]
+	chromedriver!(No symbol) [0x7ff65938de1b]
+	chromedriver!(No symbol) [0x7ff65938e472]
+	chromedriver!(No symbol) [0x7ff65938ea35]
+	chromedriver!GetHandleVerifier [0x7ff659e56431+5facb1]
+	chromedriver!GetHandleVerifier [0x7ff659e50a9b+5f531b]
+	chromedriver!GetHandleVerifier [0x7ff659e75865+61a0e5]
+	chromedriver!GetHandleVerifier [0x7ff65988dace+3234e]
+	chromedriver!GetHandleVerifier [0x7ff65989661c+3ae9c]
+	chromedriver!(No symbol) [0x7ff65938d39c]
+	chromedriver!GetHandleVerifier [0x7ff65a033d88+7d8608]
+	KERNEL32!BaseThreadInitThunk [0x7ffaab47e957+17]
+	ntdll!RtlUserThreadStart [0x7ffaab72ad6c+2c]
+
+2026-07-24 19:43:38 [ERROR] price_tracker.scraper: Ürün parse edilemedi, atlanıyor.
+Traceback (most recent call last):
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\price_tracker\scraper.py", line 260, in _parse_products_on_page
+    product = self._parse_product(el)
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\price_tracker\scraper.py", line 140, in _parse_product
+    asin = self._extract_asin(element)
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\price_tracker\scraper.py", line 120, in _extract_asin
+    asin = element.get_attribute("data-asin")
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 213, in get_attribute
+    attribute_value = self.parent.execute_script(
+        f"/* getAttribute */return ({getAttribute_js}).apply(null, arguments);", self, name
+    )
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 602, in execute_script
+    return self.execute(command, {"script": script, "args": converted_args})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 492, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff659870d25+155a5]
+	chromedriver!GetHandleVerifier [0x7ff659870d80+15600]
+	chromedriver!(No symbol) [0x7ff6593c5736]
+	chromedriver!(No symbol) [0x7ff659411ed6]
+	chromedriver!(No symbol) [0x7ff6594490d2]
+	chromedriver!(No symbol) [0x7ff659442ef2]
+	chromedriver!(No symbol) [0x7ff6594426b2]
+	chromedriver!(No symbol) [0x7ff65938de1b]
+	chromedriver!(No symbol) [0x7ff65938e472]
+	chromedriver!(No symbol) [0x7ff65938ea35]
+	chromedriver!GetHandleVerifier [0x7ff659e56431+5facb1]
+	chromedriver!GetHandleVerifier [0x7ff659e50a9b+5f531b]
+	chromedriver!GetHandleVerifier [0x7ff659e75865+61a0e5]
+	chromedriver!GetHandleVerifier [0x7ff65988dace+3234e]
+	chromedriver!GetHandleVerifier [0x7ff65989661c+3ae9c]
+	chromedriver!(No symbol) [0x7ff65938d39c]
+	chromedriver!GetHandleVerifier [0x7ff65a033d88+7d8608]
+	KERNEL32!BaseThreadInitThunk [0x7ffaab47e957+17]
+	ntdll!RtlUserThreadStart [0x7ffaab72ad6c+2c]
+
+2026-07-24 19:43:38 [INFO] price_tracker.scraper: Sayfa 1: 50 ürün okundu (oturum toplamı 50)
+2026-07-24 19:43:38 [ERROR] price_tracker.scraper: Selenium hatası: https://www.amazon.com.tr/s?k=kamp+arabas%C4%B1
+Traceback (most recent call last):
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\price_tracker\scraper.py", line 309, in scrape_page
+    if page < page_limit and not self._has_next_page(driver):
+                                 ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\price_tracker\scraper.py", line 213, in _has_next_page
+    el = driver.find_element(By.CSS_SELECTOR, selector)
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 899, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 492, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff659870d25+155a5]
+	chromedriver!GetHandleVerifier [0x7ff659870d80+15600]
+	chromedriver!(No symbol) [0x7ff6593c5736]
+	chromedriver!(No symbol) [0x7ff659411ed6]
+	chromedriver!(No symbol) [0x7ff6594490d2]
+	chromedriver!(No symbol) [0x7ff659442ef2]
+	chromedriver!(No symbol) [0x7ff6594426b2]
+	chromedriver!(No symbol) [0x7ff65938de1b]
+	chromedriver!(No symbol) [0x7ff65938e472]
+	chromedriver!(No symbol) [0x7ff65938ea35]
+	chromedriver!GetHandleVerifier [0x7ff659e56431+5facb1]
+	chromedriver!GetHandleVerifier [0x7ff659e50a9b+5f531b]
+	chromedriver!GetHandleVerifier [0x7ff659e75865+61a0e5]
+	chromedriver!GetHandleVerifier [0x7ff65988dace+3234e]
+	chromedriver!GetHandleVerifier [0x7ff65989661c+3ae9c]
+	chromedriver!(No symbol) [0x7ff65938d39c]
+	chromedriver!GetHandleVerifier [0x7ff65a033d88+7d8608]
+	KERNEL32!BaseThreadInitThunk [0x7ffaab47e957+17]
+	ntdll!RtlUserThreadStart [0x7ffaab72ad6c+2c]
+
+2026-07-24 19:43:41 [ERROR] price_tracker.tracker: Kategori taranamadı: Araç Şarj Istasyonu
+Traceback (most recent call last):
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\price_tracker\tracker.py", line 87, in _scan_category
+    products = scraper.scrape_page(category.url, max_pages=max_pages)
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\price_tracker\scraper.py", line 290, in scrape_page
+    driver.get(page_url)
+    ~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 512, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 492, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=150.0.7871.129); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff659870d25+155a5]
+	chromedriver!GetHandleVerifier [0x7ff659870d80+15600]
+	chromedriver!(No symbol) [0x7ff6593c594d]
+	chromedriver!(No symbol) [0x7ff6593b27c9]
+	chromedriver!(No symbol) [0x7ff6593b24b1]
+	chromedriver!(No symbol) [0x7ff6593b1316]
+	chromedriver!(No symbol) [0x7ff6593d619d]
+	chromedriver!(No symbol) [0x7ff65946e343]
+	chromedriver!(No symbol) [0x7ff659412e6c]
+	chromedriver!(No symbol) [0x7ff659413d93]
+	chromedriver!GetHandleVerifier [0x7ff659e56431+5facb1]
+	chromedriver!GetHandleVerifier [0x7ff659e50a9b+5f531b]
+	chromedriver!GetHandleVerifier [0x7ff659e75865+61a0e5]
+	chromedriver!GetHandleVerifier [0x7ff65988dace+3234e]
+	chromedriver!GetHandleVerifier [0x7ff65989661c+3ae9c]
+	chromedriver!GetHandleVerifier [0x7ff65987ab74+1f3f4]
+	chromedriver!GetHandleVerifier [0x7ff65987ad04+1f584]
+	chromedriver!GetHandleVerifier [0x7ff65985d9d7+2257]
+	KERNEL32!BaseThreadInitThunk [0x7ffaab47e957+17]
+	ntdll!RtlUserThreadStart [0x7ffaab72ad6c+2c]
+
+2026-07-24 19:43:41 [ERROR] price_tracker.tracker: Kategori taranamadı: Kamp Arabası
+Traceback (most recent call last):
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\price_tracker\tracker.py", line 87, in _scan_category
+    products = scraper.scrape_page(category.url, max_pages=max_pages)
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\price_tracker\scraper.py", line 309, in scrape_page
+    if page < page_limit and not self._has_next_page(driver):
+                                 ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\price_tracker\scraper.py", line 213, in _has_next_page
+    el = driver.find_element(By.CSS_SELECTOR, selector)
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 899, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 492, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff659870d25+155a5]
+	chromedriver!GetHandleVerifier [0x7ff659870d80+15600]
+	chromedriver!(No symbol) [0x7ff6593c5736]
+	chromedriver!(No symbol) [0x7ff659411ed6]
+	chromedriver!(No symbol) [0x7ff6594490d2]
+	chromedriver!(No symbol) [0x7ff659442ef2]
+	chromedriver!(No symbol) [0x7ff6594426b2]
+	chromedriver!(No symbol) [0x7ff65938de1b]
+	chromedriver!(No symbol) [0x7ff65938e472]
+	chromedriver!(No symbol) [0x7ff65938ea35]
+	chromedriver!GetHandleVerifier [0x7ff659e56431+5facb1]
+	chromedriver!GetHandleVerifier [0x7ff659e50a9b+5f531b]
+	chromedriver!GetHandleVerifier [0x7ff659e75865+61a0e5]
+	chromedriver!GetHandleVerifier [0x7ff65988dace+3234e]
+	chromedriver!GetHandleVerifier [0x7ff65989661c+3ae9c]
+	chromedriver!(No symbol) [0x7ff65938d39c]
+	chromedriver!GetHandleVerifier [0x7ff65a033d88+7d8608]
+	KERNEL32!BaseThreadInitThunk [0x7ffaab47e957+17]
+	ntdll!RtlUserThreadStart [0x7ffaab72ad6c+2c]
+
+2026-07-24 19:43:41 [INFO] price_tracker.tracker: Kategori başlıyor: Taşınabilir Güç Istasyonu
+2026-07-24 19:43:41 [INFO] price_tracker.tracker: Kategori başlıyor: 55 inc TV
+2026-07-24 19:43:41 [INFO] price_tracker.scraper: Kategori taranıyor (max 2 sayfa): https://www.amazon.com.tr/s?k=ta%C5%9F%C4%B1nabilir+g%C3%BC%C3%A7+istasyonu
+2026-07-24 19:43:41 [INFO] price_tracker.scraper: Kategori taranıyor (max 3 sayfa): https://www.amazon.com.tr/s?k=55+in%C3%A7+tv
+2026-07-24 19:43:41 [ERROR] price_tracker.tracker: Kategori taranamadı: Su
+Traceback (most recent call last):
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\price_tracker\tracker.py", line 87, in _scan_category
+    products = scraper.scrape_page(category.url, max_pages=max_pages)
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\price_tracker\scraper.py", line 290, in scrape_page
+    driver.get(page_url)
+    ~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 512, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 492, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=150.0.7871.129); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff659870d25+155a5]
+	chromedriver!GetHandleVerifier [0x7ff659870d80+15600]
+	chromedriver!(No symbol) [0x7ff6593c594d]
+	chromedriver!(No symbol) [0x7ff6593b27c9]
+	chromedriver!(No symbol) [0x7ff6593b24b1]
+	chromedriver!(No symbol) [0x7ff6593b0167]
+	chromedriver!(No symbol) [0x7ff6593b0abf]
+	chromedriver!(No symbol) [0x7ff6593c016a]
+	chromedriver!(No symbol) [0x7ff6593d6ab7]
+	chromedriver!(No symbol) [0x7ff6593de98a]
+	chromedriver!(No symbol) [0x7ff6593b1281]
+	chromedriver!(No symbol) [0x7ff6593d619d]
+	chromedriver!(No symbol) [0x7ff65946e343]
+	chromedriver!(No symbol) [0x7ff659412e6c]
+	chromedriver!(No symbol) [0x7ff659413d93]
+	chromedriver!GetHandleVerifier [0x7ff659e56431+5facb1]
+	chromedriver!GetHandleVerifier [0x7ff659e50a9b+5f531b]
+	chromedriver!GetHandleVerifier [0x7ff659e75865+61a0e5]
+	chromedriver!GetHandleVerifier [0x7ff65988dace+3234e]
+	chromedriver!GetHandleVerifier [0x7ff65989661c+3ae9c]
+	chromedriver!GetHandleVerifier [0x7ff65987ab74+1f3f4]
+	chromedriver!GetHandleVerifier [0x7ff65987ad04+1f584]
+	chromedriver!GetHandleVerifier [0x7ff65985d9d7+2257]
+	KERNEL32!BaseThreadInitThunk [0x7ffaab47e957+17]
+	ntdll!RtlUserThreadStart [0x7ffaab72ad6c+2c]
+
+2026-07-24 19:43:41 [INFO] price_tracker.tracker: Kategori başlıyor: Kulakiçi Kulaklık
+2026-07-24 19:43:41 [INFO] price_tracker.scraper: Kategori taranıyor (max 3 sayfa): https://www.amazon.com.tr/s?k=kablosuz+kulak+i%C3%A7i+kulakl%C4%B1k
+2026-07-24 19:43:42 [ERROR] price_tracker.telegram_bot: Telegram bot poll hatası
+Traceback (most recent call last):
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\urllib3\connection.py", line 204, in _new_conn
+    sock = connection.create_connection(
+        (self._dns_host, self.port),
+    ...<2 lines>...
+        socket_options=self.socket_options,
+    )
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 983, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\urllib3\connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\urllib3\connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\urllib3\connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\urllib3\connectionpool.py", line 1106, in _validate_conn
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\urllib3\connection.py", line 759, in connect
+    self.sock = sock = self._new_conn()
+                       ~~~~~~~~~~~~~~^^
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\urllib3\connection.py", line 211, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\urllib3\connectionpool.py", line 842, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\urllib3\util\retry.py", line 543, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8706442391:AAEBTdNZ7wtars5g1hM4wKmAR28qqxu1Kms/getUpdates?timeout=25&offset=980308614&allowed_updates=message (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\price_tracker\telegram_bot.py", line 87, in _poll_loop
+    resp = requests.get(
+        f"https://api.telegram.org/bot{token}/getUpdates",
+    ...<5 lines>...
+        timeout=35,
+    )
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\requests\api.py", line 87, in get
+    return request("get", url, params=params, **kwargs)
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\requests\api.py", line 71, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Besim.Oznalcin\Desktop\Amazon Scraper\.venv\Lib\site-packages\requests\adapters.py", line 729, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8706442391:AAEBTdNZ7wtars5g1hM4wKmAR28qqxu1Kms/getUpdates?timeout=25&offset=980308614&allowed_updates=message (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
